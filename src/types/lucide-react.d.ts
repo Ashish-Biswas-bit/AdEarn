@@ -67,4 +67,7 @@ declare module 'lucide-react' {
   export const MessageCircle: Icon;
   export const UserPlus: Icon;
   export const Share2: Icon;
+  export const ClipboardList: Icon;
+  export const CheckCircle2: Icon;
+  export const MousePointerClick: Icon;
 }
